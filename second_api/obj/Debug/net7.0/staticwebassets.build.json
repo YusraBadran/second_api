@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "r5/tDONtan+pMGBUXyS7ZCEZ7kn8rEtZhW/aP+wW1yk=",
+  "Source": "second_api",
+  "BasePath": "_content/second_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "second_api\\wwwroot",
+      "Source": "second_api",
+      "ContentRoot": "D:\\Apps\\AspDotNet\\second_api\\second_api\\wwwroot\\",
+      "BasePath": "_content/second_api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Apps\\AspDotNet\\second_api\\second_api\\wwwroot\\Upload\\b1.jpeg",
+      "SourceId": "second_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Apps\\AspDotNet\\second_api\\second_api\\wwwroot\\",
+      "BasePath": "_content/second_api",
+      "RelativePath": "Upload/b1.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\b1.jpeg"
+    },
+    {
+      "Identity": "D:\\Apps\\AspDotNet\\second_api\\second_api\\wwwroot\\Upload\\chatt.png",
+      "SourceId": "second_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Apps\\AspDotNet\\second_api\\second_api\\wwwroot\\",
+      "BasePath": "_content/second_api",
+      "RelativePath": "Upload/chatt.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\chatt.png"
+    },
+    {
+      "Identity": "D:\\Apps\\AspDotNet\\second_api\\second_api\\wwwroot\\Upload\\yusra.png",
+      "SourceId": "second_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Apps\\AspDotNet\\second_api\\second_api\\wwwroot\\",
+      "BasePath": "_content/second_api",
+      "RelativePath": "Upload/yusra.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\yusra.png"
+    },
+    {
+      "Identity": "D:\\Apps\\AspDotNet\\second_api\\second_api\\wwwroot\\Upload\\لقطة الشاشة 2022-08-29 022043.png",
+      "SourceId": "second_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Apps\\AspDotNet\\second_api\\second_api\\wwwroot\\",
+      "BasePath": "_content/second_api",
+      "RelativePath": "Upload/لقطة الشاشة 2022-08-29 022043.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\لقطة الشاشة 2022-08-29 022043.png"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Apps\\AspDotNet\\second_api\\second_api\\wwwroot\\Upload\\b1.jpeg",
+      "PackagePath": "staticwebassets\\Upload\\b1.jpeg"
+    },
+    {
+      "Id": "D:\\Apps\\AspDotNet\\second_api\\second_api\\wwwroot\\Upload\\chatt.png",
+      "PackagePath": "staticwebassets\\Upload\\chatt.png"
+    },
+    {
+      "Id": "D:\\Apps\\AspDotNet\\second_api\\second_api\\wwwroot\\Upload\\yusra.png",
+      "PackagePath": "staticwebassets\\Upload\\yusra.png"
+    },
+    {
+      "Id": "D:\\Apps\\AspDotNet\\second_api\\second_api\\wwwroot\\Upload\\لقطة الشاشة 2022-08-29 022043.png",
+      "PackagePath": "staticwebassets\\Upload\\لقطة الشاشة 2022-08-29 022043.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.second_api.props",
+      "PackagePath": "build\\second_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.second_api.props",
+      "PackagePath": "buildMultiTargeting\\second_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.second_api.props",
+      "PackagePath": "buildTransitive\\second_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.second_api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
